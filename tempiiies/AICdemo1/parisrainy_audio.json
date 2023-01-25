@@ -1,0 +1,189 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/d3cc8f609cac11ed9ddbd9f79bb0b771/manifest.json",
+  "@type": "sc:Manifest",
+  "label": {
+    "@value": "Paris Street; Rainy Day by Gustave Caillebotte",
+    "@language": "en"
+  },
+  "metadata": [
+    {
+      "label": "author",
+      "value": "Ben R"
+    },
+    {
+      "label": "provider",
+      "value": "cogapp"
+    }
+  ],
+  "manifestid": "d3cc8f609cac11ed9ddbd9f79bb0b771",
+  "description": {
+    "@value": " ",
+    "@language": "en"
+  },
+  "viewingHint": "paged",
+  "viewingDirection": "left-to-right",
+  "attribution": "Art Institute of Chicago: Charles H. and Mary F. S. Worcester Collection",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "canvases": [
+        {
+          "@id": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0",
+          "label": {
+            "@value": "Paris Street; Rainy Day by Gustave Caillebotte\nBen R\n\n\n\nArt Institute of Chicago: Charles H. and Mary F. S. Worcester Collection",
+            "@language": "en"
+          },
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@type": "sc:Canvas",
+          "width": 843,
+          "height": 655,
+          "images": [
+            {
+              "resource": {
+                "@id": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 843,
+                "height": 655,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/1/level2.json",
+                  "@id": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27"
+                }
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/AICdemo1/annotations_original.json",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "annotationList": {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/d3cc8f609cac11ed9ddbd9f79bb0b771/annotations.json",
+            "@type": "sc:AnnotationList",
+            "resources": [
+              {
+                "@type": "oa:Annotation",
+                "@id": "6272f2209cb411edb375319d4a87558b",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Gloria Groom, David and Mary Winton Green Curator , and chair of Painting and Sculpture of Europe."
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=2584.2149737968366,3182.892196565129,3716.2512145633295,3326.811287953571"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "d69472e09cb511ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Frozen 1"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=-466.2534680151506,-1023.8709218776526,11096.666666666668,9933.805276848756"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "e622b0009cb511ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "elegant couple"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=4774.197428763285,2146.8488322808216,3210.8410493827164,2874.364952791885"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "edf651b09cb511ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "collision"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=7229.757027287862,2454.6886653320066,3210.8410493827164,2874.364952791885"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "f40ab7309cb511ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "not photography"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=5220.876043493043,1527.5935113212524,5548.333333333332,4966.902638424377"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "04de6ca09cb611ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "clothes"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=4257.179550846354,3250.7991280367855,5351.401748971194,4790.6082546531425"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "0a36ae109cb611ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "umbrella"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=2884.665997487092,2734.756946523067,2580.7300101134238,2310.285616634425"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "1086bd009cb611ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "grand boulevards"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=-636.0336052390296,-287.319743974381,6421.682098765433,5748.72990558377"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "167b8c909cb611ed880d53670bdf3074",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "this is paris"
+                },
+                "on": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=-590.1127230646662,-770.4302616370069,11096.666666666668,9933.805276848756"
+              }
+            ]
+          }
+        }
+      ],
+      "pages": [
+        {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "profile": [
+            "http://iiif.io/api/image/2/level2.json"
+          ],
+          "protocol": "http://iiif.io/api/image",
+          "@id": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27",
+          "width": 843,
+          "height": 655
+        }
+      ]
+    }
+  ]
+}

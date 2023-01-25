@@ -7,10 +7,20 @@
     "@type":"oa:Annotation",
     "@id": "6272f2209cb411edb375319d4a87558b",
     "motivation":"sc:painting",
-    "resource":{  
-       "@type":"cnt:ContentAsText",
-       "format":"text/plain",
-       "chars":"Gloria Groom, David and Mary Winton Green Curator , and chair of Painting and Sculpture of Europe."
+	"resource":{
+		"@type":"oa:Composite",
+		"default":{
+		   "@type":"cnt:ContentAsText",
+		   "format":"text/plain",
+		   "chars":"Gloria Groom, David and Mary Winton Green Curator , and chair of Painting and Sculpture of Europe."
+		},
+		"item": [
+			{
+				"@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/AICdemo1/audio/0gloria.mp3",
+				"@type": "dctypes:Sound",
+				"format": "audio/mpeg"
+			}
+		]
     },
     "on":"https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/canvas/c0#xywh=2584.2149737968366,3182.892196565129,3716.2512145633295,3326.811287953571"
 },{  

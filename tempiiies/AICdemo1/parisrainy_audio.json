@@ -60,7 +60,7 @@
           ],
           "otherContent": [
             {
-              "@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/AICdemo1/annotations_original.json",
+              "@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/AICdemo1/annotations_audio.json",
               "@type": "sc:AnnotationList"
             }
           ],

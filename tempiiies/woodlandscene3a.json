@@ -1,0 +1,268 @@
+{
+  "@context": ["http://iiif.io/api/presentation/3/context.json"],
+  "id": "https://m3qvhfvoy3.execute-api.us-east-1.amazonaws.com/dev/manifest/11a276d09aa611eab07ed1d726e79128/manifest.json",
+  "type": "Manifest",
+  "label": { "en": ["Woodland scene audio test"] },
+  "metadata": [
+    { "label": { "en": ["author"] }, "value": { "en": ["BenR"] } },
+    { "label": { "en": ["provider"] }, "value": { "en": ["cogapp"] } }
+  ],
+  "summary": { "en": [" Surrey Woodland spring scene with wild animals "] },
+  "behavior": ["paged"],
+  "viewingDirection": "left-to-right",
+  "summary": {
+    "en": [ " Surrey Woodland spring scene with wild animals " ]
+  },
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ]},
+    "value": { "en": [ "Image from warrenphotographic.co.uk. RIGHTS NOT CLEARED. For test use only, not for public display. Inspired by Guardian Soundscape, I might steal some of their text as well." ] }
+  },
+  "items": [
+    {
+      "id": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0",
+      "type": "Canvas",
+      "label": { "en": ["Chiiild's Play\nYaya\n\nIt’s a rainbow"] },
+      "width": 3138,
+      "height": 2208,
+      "items": [
+      ],
+      "annotations": [
+        {
+          "id": "https://m3qvhfvoy3.execute-api.us-east-1.amazonaws.com/dev/annotation/11a276d09aa611eab07ed1d726e79128/annotations.json",
+          "type": "AnnotationPage",
+          "items": [
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "These creatures are noisy"
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/ambient_loops_pascal/dusk.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=-204.32952599951128,-307.3063395745788,3486.666666666667,2787.7357770141275"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "This squirrel for example gives off loud alarm calls when spotting a predator."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/squirrel.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=1717.3646125662347,866.5904512424976,793.6363636363636,634.5454545454545"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "I'm going to claim that this is a woodpecker."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/woodpecker.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=72.29200044778473,356.26582255481674,793.6363636363636,634.5454545454545"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "And I'm pretty sure that this is a robin"
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/robin.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=410,-18,793,634"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "Fallow deer often stalk the forest at dawn before lying down to ruminate during the day. They give off powerful bellows to establish dominance or signal alarm."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/deer.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=988,984,793,634"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "The red fox, seen here in a rare visit to the countryside, away from its usual urban envornment."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/fox.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=418.46369573169284,1024.492641728141,793.6363636363636,634.5454545454545"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "Rabbits and hares, unusually, never make a noise."
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=1577.9558278510797,1265.1473492333769,793.6363636363636,634.5454545454545"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "The badger emerges from its underground home after dusk to feed on worms, birds’ eggs or small animals. It is a highly social animal and communicates through chortling sounds."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/badger.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=2300.4099334987186,788.5801972542063,793.6363636363636,634.5454545454545"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "There are many other birds in this picture, but I can't identify them."
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=0,0,3138,2208"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "If this was an owl I'd say: the tawny owl glides almost soundlessly through the night as it looks for prey. The male gives off an eerie hoot when attempting to court a nearby female."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/owl.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=988,500,793,634"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "If this was a great tit, it would be known for its vast repertoire of short calls."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/great_tit.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=2500,1600,600,600"
+	}
+,
+   {
+	  "id": "annotation-id$$",
+	  "type": "Annotation",
+	  "motivation": "commenting",
+	  "body": [
+		{
+		  "type": "TextualBody",
+		  "format": "text/plain",
+		  "value": "The nightingale likes to hide in thick brush when delivering its powerful song. It can be heard between April and June and is most active at dawn and dusk."
+		},
+		{
+		  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/sounds_pascal/nightingale.mp3",
+		  "type": "Sound",
+		  "format": "audio/mp3",
+		  "duration": 9
+		}
+	  ],
+	  "target": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0#xywh=1500,100,600,600"
+	}
+
+
+          ]
+        }
+      ]
+    }
+  ]
+}

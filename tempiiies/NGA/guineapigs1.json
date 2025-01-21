@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Guinea pig and Hedgehogs 2"
+      "Guinea pig and Hedgehogs 3"
     ]
   },
   "metadata": [
@@ -145,7 +145,7 @@
                 "language": "en",
                 "format": "text/plain"
               },{
-					"type": "dctypes:Image"",
+					"type": "dctypes:Image",
 					"id": "https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg",
 					"format": "image/jpeg"
 				  }

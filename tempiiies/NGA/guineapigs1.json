@@ -90,7 +90,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "These inscriptions are bits of poetry, <img alt="dear mouse" src='https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg' />mottos, or proverbs that impart a moral or lesson.",
+                "value": "These inscriptions are bits of poetry, <img alt='dear mouse' src='https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg' />mottos, or proverbs that impart a moral or lesson.",
                 "language": "en",
                 "format": "text/plain"
               },

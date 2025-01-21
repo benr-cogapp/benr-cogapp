@@ -100,12 +100,20 @@
               "id": "https://manifest.storiiies-editor.cogapp.com/v3/0d6sa/Guinea-pig-and-Hedgehogs/pages/text/1/annotation/2",
               "type": "Annotation",
               "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "value": "Texts at the top and bottom compare a hedgehog with a fox. The bottom inscription reads “The fox has many tricks, but the hedgehog has one great trick.”",
-                "language": "en",
-                "format": "text/plain"
-              },
+              "body": [
+				  {
+					"type": "TextualBody",
+					"value": "Texts at the top and bottom compare a hedgehog with a fox. The bottom inscription reads “The fox has many tricks, but the hedgehog has one great trick.”",
+					"language": "en",
+					"format": "text/plain"
+				  },
+				  {
+					  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/ambient_loops_pascal/dusk.mp3",
+					  "type": "dctypes:Sound",
+					  "format": "audio/mp3",
+					  "duration": 9
+					}
+				],
               "target": "https://manifest.storiiies-editor.cogapp.com/v3/0d6sa/Guinea-pig-and-Hedgehogs/canvases/1#xywh=611,1623,3593,3199"
             },
             {

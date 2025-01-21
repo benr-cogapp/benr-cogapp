@@ -78,8 +78,9 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "<strong>Latin inscriptions</strong> appear on oh so many pages in <i>Joris Hoefnagel<i>’s albums, including <b>this one</b>.",
+                "value": "<strong>Latin inscriptions</strong> appear THIS HAS POSITION HINT on oh so many pages in <i>Joris Hoefnagel<i>’s albums, including <b>this one</b>.",
                 "language": "en",
+                "position-hint": "north"
                 "format": "text/plain"
               },
               "target": "https://manifest.storiiies-editor.cogapp.com/v3/0d6sa/Guinea-pig-and-Hedgehogs/canvases/1#xywh=0,-261,5588,4975"

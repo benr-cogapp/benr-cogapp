@@ -78,7 +78,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Latin inscriptions appear on many pages in Joris Hoefnagel’s albums, including this one.",
+                "value": "<strong>Latin inscriptions</strong> appear on oh so many pages in <i>Joris Hoefnagel<i>’s albums, including <b>this one</b>.",
                 "language": "en",
                 "format": "text/plain"
               },

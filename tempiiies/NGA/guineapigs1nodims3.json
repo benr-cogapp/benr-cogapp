@@ -1,0 +1,238 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Guinea pig and Hedgehogs 5"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "en": [
+          "NGA"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "cogapp"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1",
+      "type": "Canvas",
+                "height": 1,
+                "width": 1,
+      "items": [
+        {
+          "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/image/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/annotations/image/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1,
+                "width": 1,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "<strong>Latin inscriptions</strong> appear THIS HAS POSITION HINT on oh so many pages in <i>Joris Hoefnagel<i>’s albums, including <b>this one</b>.",
+                "language": "en",
+                "position-hint": "north",
+                "format": "text/plain"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=0,-261,5588,4975"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "These images are bits of poetry AND IMAGES, <img alt='dear mouse' src='https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg' />mottos, or proverbs that impart a moral or lesson.",
+                "language": "en",
+                "format": "text/html"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=1151,-1016,2695,2399"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+				  {
+					"type": "TextualBody",
+					"value": "Texts at the top SOUND and bottom compare a hedgehog with a fox. The bottom inscription reads “The fox has many tricks, but the hedgehog has one great trick.”",
+					"language": "en",
+					"format": "text/plain"
+				  },
+				  {
+					  "id": "https://interactive.guim.co.uk/atoms/2020/05/interactive-soundscapes/assets/v/1589971492299/ambient_loops_pascal/dusk.mp3",
+					  "type": "dctypes:Sound",
+					  "format": "audio/mp3",
+					  "duration": 9
+					}
+				],
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=611,1623,3593,3199"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+				  {
+					"type": "TextualBody",
+					"value": "Its trick? IMAGE Rolling into a ball when it feels threatened.",
+					"language": "en",
+					"format": "text/plain"
+				  },
+				  {
+					"type": "Image",
+					"id": "https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg",
+					"format": "image/jpeg"
+				  }
+              ],
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=-151,-436,5776,5142"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [{
+                "type": "TextualBody",
+                "value": "Its trick (2)? Rolling into a ball when it feels threatened.",
+                "language": "en",
+                "format": "text/plain"
+              },{
+					"type": "dctypes:Image",
+					"id": "https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg",
+					"format": "image/jpeg"
+				  }
+              ],
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=3238,1966,1444,1286"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "The  plaque above the rolled hedgehog reads “No strength is anything but an error.” [Latin translation] Hoefnagel suggests that the hedgehog’s seemingly weak defense mechanism should be admired.",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=3238,1067,1203,1071"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "One more inscription is hidden, written in gold below the central hedgehog. It reads: “I wrap myself in virtue.”",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=2094,2063,1003,893"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "What lesson does the hedgehog offer us?",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=263,-85,5174,4606"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "One scholar proposed that Hoefnagel wants us to applaud the hedgehog’s self-defense tactic—that its “one great trick” can be useful, even virtuous, when faced with aggression.",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=3083,1896,1444,1286"
+            },
+            {
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "Do you agree with this? What’s YOUR one great trick?",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=271,-21,5174,4606"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "<p>initial test of storiiies for little beasts<br><br>By NGA</p>"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "NGA"
+      ]
+    }
+  }
+}

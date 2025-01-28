@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json",
+  "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -35,15 +35,15 @@
   ],
   "items": [
     {
-      "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1",
+      "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/image/1",
+          "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/image/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/annotations/image/1",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/annotations/image/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -60,18 +60,18 @@
                   }
                 ]
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1",
+          "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/0",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/0",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -81,10 +81,10 @@
                 "position-hint": "north",
                 "format": "text/plain"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=0,-261,5588,4975"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=0,-261,5588,4975"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/1",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -93,10 +93,10 @@
                 "language": "en",
                 "format": "text/html"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=1151,-1016,2695,2399"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=1151,-1016,2695,2399"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/2",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/2",
               "type": "Annotation",
               "motivation": "commenting",
               "body": [
@@ -113,10 +113,10 @@
 					  "duration": 9
 					}
 				],
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=611,1623,3593,3199"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=611,1623,3593,3199"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/3",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/3",
               "type": "Annotation",
               "motivation": "commenting",
               "body": [
@@ -132,10 +132,10 @@
 					"format": "image/jpeg"
 				  }
               ],
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=-151,-436,5776,5142"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=-151,-436,5776,5142"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/4",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/4",
               "type": "Annotation",
               "motivation": "commenting",
               "body": [{
@@ -149,10 +149,10 @@
 					"format": "image/jpeg"
 				  }
               ],
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=3238,1966,1444,1286"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=3238,1966,1444,1286"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/5",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/5",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -161,10 +161,10 @@
                 "language": "en",
                 "format": "text/plain"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=3238,1067,1203,1071"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=3238,1067,1203,1071"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/6",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/6",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -173,10 +173,10 @@
                 "language": "en",
                 "format": "text/plain"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=2094,2063,1003,893"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=2094,2063,1003,893"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/7",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/7",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -185,10 +185,10 @@
                 "language": "en",
                 "format": "text/plain"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=263,-85,5174,4606"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=263,-85,5174,4606"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/8",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/8",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -197,10 +197,10 @@
                 "language": "en",
                 "format": "text/plain"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=3083,1896,1444,1286"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=3083,1896,1444,1286"
             },
             {
-              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/pages/text/1/annotation/9",
+              "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/pages/text/1/annotation/9",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
@@ -209,7 +209,7 @@
                 "language": "en",
                 "format": "text/plain"
               },
-              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims.json/canvases/1#xywh=271,-21,5174,4606"
+              "target": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/guineapigs1nodims2.json/canvases/1#xywh=271,-21,5174,4606"
             }
           ]
         }

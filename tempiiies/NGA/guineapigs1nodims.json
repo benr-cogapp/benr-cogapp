@@ -37,6 +37,8 @@
     {
       "id": "https://manifest.storiiies-editor.cogapp.com/v3/0d6sa/Guinea-pig-and-Hedgehogs/canvases/1",
       "type": "Canvas",
+      "height": 4453,
+      "width": 5588,
       "items": [
         {
           "id": "https://manifest.storiiies-editor.cogapp.com/v3/0d6sa/Guinea-pig-and-Hedgehogs/pages/image/1",
@@ -50,6 +52,8 @@
                 "id": "https://api.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
+                "height": 4453,
+                "width": 5588,
                 "service": [
                   {
                     "id": "https://api.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056",

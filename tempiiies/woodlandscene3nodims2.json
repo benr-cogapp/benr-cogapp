@@ -32,13 +32,11 @@
         {
           "@id": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif/canvas/c0",
           "label": {
-            "@value": "Woodland scene audio test2\nBenR\n\n Surrey Woodland spring scene with wild animals no dims!! \n\nImage from warrenphotographic.co.uk. RIGHTS NOT CLEARED. For test use only, not for public display. Inspired by Guardian Soundscape, I might steal some of their text as well. Audio from British Library British Wildlife Recordings, CC-BY",
+            "@value": "Woodland scene audio test3\nBenR\n\n Surrey Woodland spring scene with wild animals no dims AT ALL!! \n\nImage from warrenphotographic.co.uk. RIGHTS NOT CLEARED. For test use only, not for public display. Inspired by Guardian Soundscape, I might steal some of their text as well. Audio from British Library British Wildlife Recordings, CC-BY",
             "@language": "en"
           },
           "@context": "http://iiif.io/api/presentation/2/context.json",
           "@type": "sc:Canvas",
-          "width": 3138,
-          "height": 2208,
           "images": [
             {
               "resource": {
@@ -166,10 +164,8 @@
             "http://iiif.io/api/image/2/level2.json"
           ],
           "protocol": "http://iiif.io/api/image",
-          "@id": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif",
-          "width": 3138,
-          "height": 2208
-        }
+          "@id": "https://storiiies-images.cogapp.com/iiif/2/158998286812401214Woodlandscenejigsawx2.ptif"
+         }
       ]
     }
   ]

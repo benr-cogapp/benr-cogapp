@@ -98,7 +98,6 @@
                   "type": "TextualBody",
                   "value": "<p><span class=\"objectBox objectBox-string\">First annotation: whole image</span></p>",
                   "language": "en",
-                  "position-hint": "west",
                   "format": "text/html"
                 }
               ],

@@ -96,14 +96,29 @@
               "body": [
                 {
                   "type": "TextualBody",
-                  "value": "<p><span class=\"objectBox objectBox-string\">First annotation: whole image</span></p>",
+                  "value": "<p><span class=\"objectBox objectBox-string\">First annotation: whole image (no pos hint)</span></p>",
                   "language": "en",
                   "format": "text/html"
                 }
               ],
               "target": "https://ngagov.ddev.site/node/911805/canvases/1#xywh=0,0,8035,5553"
             },
-            {
+             {
+              "id": "https://ngagov.ddev.site/node/911805/pages/text/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p><span class=\"objectBox objectBox-string\">First annotation: whole image (pos hint)</span></p>",
+                  "language": "en",  
+                 "position-hint": "west",
+                 "format": "text/html"
+                }
+              ],
+              "target": "https://ngagov.ddev.site/node/911805/canvases/1#xywh=0,0,8035,5553"
+            },
+           {
               "id": "https://ngagov.ddev.site/node/911805/pages/text/1/annotation/1",
               "type": "Annotation",
               "motivation": "commenting",

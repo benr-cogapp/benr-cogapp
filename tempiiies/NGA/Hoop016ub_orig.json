@@ -1,0 +1,145 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Hoopoe and owl"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "en": [
+          "benr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "cogapp"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/canvases/1",
+      "type": "Canvas",
+      "height": 5553,
+      "width": 8035,
+      "items": [
+        {
+          "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/pages/image/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/annotations/image/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/810c47fb-640a-4eba-b3cf-0f2469c164b2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5553,
+                "width": 8035,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/810c47fb-640a-4eba-b3cf-0f2469c164b2",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/canvases/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/pages/text/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/pages/text/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "First annotation: whole image",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/canvases/1#xywh=0,-1200,8035,7954"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/pages/text/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "Second annotation: owl head",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/canvases/1#xywh=4905,726,2426,2402"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/pages/text/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "Third: horizontal Bubo",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/canvases/1#xywh=5972,864,1074,423"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/pages/text/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "Fourth: vertical landscape.",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/016ub/Hoopoe-and-owl/canvases/1#xywh=2530,2217,1084,3649"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "<p>test for NGA<br><br>By benr</p>"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "NGA"
+      ]
+    }
+  }
+}

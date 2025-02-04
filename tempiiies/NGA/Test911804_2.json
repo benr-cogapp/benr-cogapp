@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ngagov.ddev.site/kiosk-story/911804/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Something about hedgehogs"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "en": [
+          "admin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "NGA"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "<p>Something here</p>"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "NGA"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://ngagov.ddev.site/node/911804/canvases/1",
+      "type": "Canvas",
+      "width": "100",
+      "height": "1234",
+      "items": [
+        {
+          "id": "https://ngagov.ddev.site/node/911804/pages/image/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ngagov.ddev.site/node/911804/annotations/image/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://media.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": "100",
+                "height": "1234",
+                "service": [
+                  {
+                    "id": "https://media.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              },
+              "target": "https://ngagov.ddev.site/node/911804/canvases/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://ngagov.ddev.site/node/911804/pages/text/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ngagov.ddev.site/node/911804/pages/text/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>THis is a c piece of interpretative text that will appear</p>",
+                  "language": "en",
+                  "position-hint": "west",
+                  "format": "text/html"
+                }
+              ],
+              "target": "https://ngagov.ddev.site/node/911804/canvases/1#xywh=1,1,200,400"
+            },
+            {
+              "id": "https://ngagov.ddev.site/node/911804/pages/text/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>here's a second text</p>",
+                  "language": "en",
+                  "position-hint": "west",
+                  "format": "text/html"
+                }
+              ],
+              "target": "https://ngagov.ddev.site/node/911804/canvases/1#xywh=0,0,3300,333"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

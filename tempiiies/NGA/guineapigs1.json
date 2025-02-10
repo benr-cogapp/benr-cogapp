@@ -91,7 +91,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "These images are bits of poetry AND IMAGES, <img alt='dear mouse' src='https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg' />mottos, or proverbs that impart a moral or lesson.",
+                "value": "These images are bits of poetry AND IMAGES, mottos, or proverbs that impart a moral or lesson.<br /> <img alt='dear mouse' src='https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg' />",
                 "language": "en",
                 "format": "text/html"
               },
@@ -124,14 +124,9 @@
               "body": [
 				  {
 					"type": "TextualBody",
-					"value": "Its trick? IMAGE Rolling into a ball when it feels threatened.",
+					"value": "Its trick? IMAGE Rolling into a ball when it feels threatened.<br><img alt='dear mouse' src='https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg' />",
 					"language": "en",
 					"format": "text/plain"
-				  },
-				  {
-					"type": "Image",
-					"id": "https://www.sternenvironmental.com/blog/wp-content/uploads/2011/04/white-footed-deer-mouse.jpg",
-					"format": "image/jpeg"
 				  }
               ],
               "target": "https://manifest.storiiies-editor.cogapp.com/v3/0d6sa/Guinea-pig-and-Hedgehogs/canvases/1#xywh=-151,-436,5776,5142"

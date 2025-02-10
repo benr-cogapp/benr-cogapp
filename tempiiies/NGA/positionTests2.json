@@ -200,6 +200,46 @@
                 "format": "text/plain"
               },
               "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=3074,79,661,656"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Image, Position hint east",
+                  "position-hint": "east",
+                  "language": "en",
+                  "format": "text/plain"
+                },
+                {
+                  "type": "dctypes:Image",
+                  "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/compHedgehog744.jpg",
+                  "format": "image/jpeg"
+                }
+              ],
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=1195,1065,996,740"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Image, Position hint west",
+                  "position-hint": "west",
+                  "language": "en",
+                  "format": "text/plain"
+                },
+                {
+                  "type": "dctypes:Image",
+                  "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/compHedgehog744.jpg",
+                  "format": "image/jpeg"
+                }
+              ],
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=1195,1065,996,740"
             }
           ]
         }

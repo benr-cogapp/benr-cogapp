@@ -155,7 +155,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Top thing, position hint south",
+                "value": "Top green thing, position hint south",
                 "position-hint": "south",
                 "language": "en",
                 "format": "text/plain"
@@ -168,7 +168,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Bottom thing, position hint north",
+                "value": "Bottom green thing, position hint north",
                 "position-hint": "north",
                 "language": "en",
                 "format": "text/plain"
@@ -181,7 +181,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Left thing, position hint east",
+                "value": "Left green thing, position hint east",
                 "position-hint": "east",
                 "language": "en",
                 "format": "text/plain"
@@ -194,7 +194,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Right thing, position hint west",
+                "value": "Right green thing, position hint west",
                 "position-hint": "west",
                 "language": "en",
                 "format": "text/plain"
@@ -247,7 +247,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Tall rect at top-right, position hint west",
+                "value": "Tall pink rect at top-right, position hint west",
                 "position-hint": "west",
                 "language": "en",
                 "format": "text/plain"
@@ -260,7 +260,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Tall rect at bottom-left, position hint east",
+                "value": "Tall pink rect at bottom-left, position hint east",
                 "position-hint": "west",
                 "language": "en",
                 "format": "text/plain"
@@ -273,7 +273,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "wide rect at top-left, position hint south",
+                "value": "wide pink rect at top-left, position hint south",
                 "position-hint": "west",
                 "language": "en",
                 "format": "text/plain"
@@ -286,7 +286,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "wide rect at bottom-left, position hint north",
+                "value": "wide pink rect at bottom-left, position hint north",
                 "position-hint": "north",
                 "language": "en",
                 "format": "text/plain"

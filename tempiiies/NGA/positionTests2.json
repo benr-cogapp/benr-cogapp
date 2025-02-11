@@ -260,6 +260,19 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
+                "value": "Tall rect at bottom-left, position hint east",
+                "position-hint": "west",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=398,1477,785,1323"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
                 "value": "wide rect at top-left, position hint south",
                 "position-hint": "west",
                 "language": "en",
@@ -268,7 +281,7 @@
               "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=565,18,1664,575"
             },
             {
-              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/14",
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/15",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {

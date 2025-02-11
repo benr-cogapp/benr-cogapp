@@ -56,7 +56,7 @@
                 "width": 4096,
                 "service": [
                   {
-                    "id": "https://storiiies-images.cogapp.com/iiif/2/1739209211704studyofinsectsandreptilescenterrects.ptif",
+                    "id": "https://storiiies-images.cogapp.com/iiif/2/1739291599868studyofinsectsandreptilescenterrects.ptif",
                     "profile": "level2",
                     "type": "ImageService2"
                   }
@@ -240,6 +240,45 @@
                 }
               ],
               "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=1195,1065,996,740"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "Tall rect at top-right, position hint west",
+                "position-hint": "west",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=3419,267,582,1488"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "wide rect at top-left, position hint south",
+                "position-hint": "west",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=565,18,1664,575"
+            },
+            {
+              "id": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./pages/text/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "wide rect at bottom-left, position hint north",
+                "position-hint": "north",
+                "language": "en",
+                "format": "text/plain"
+              },
+              "target": "https://manifest.storiiies-editor.cogapp.com/v3/7d6vq/Positioning-test./canvases/1#xywh=60,2377,1947,472"
             }
           ]
         }

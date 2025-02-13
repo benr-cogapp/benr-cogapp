@@ -54,8 +54,8 @@
     {
       "id": "https://ngagov.ddev.site/node/911801/canvases/1",
       "type": "Canvas",
-      "width": "5588",
-      "height": "4453",
+      "width": 5588,
+      "height": 4453,
       "items": [
         {
           "id": "https://ngagov.ddev.site/node/911801/pages/image/1",
@@ -69,8 +69,8 @@
                 "id": "https://media.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": "5588",
-                "height": "4453",
+                "width": 5588,
+                "height": 4453,
                 "service": [
                   {
                     "id": "https://media.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056",

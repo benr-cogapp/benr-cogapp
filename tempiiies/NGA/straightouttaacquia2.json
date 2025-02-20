@@ -146,7 +146,15 @@
               "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/2",
               "type": "Annotation",
               "motivation": "commenting",
-              "body": [],
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "north"
+                }
+              ],
               "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=813,3708,3536,726"
             },
             {

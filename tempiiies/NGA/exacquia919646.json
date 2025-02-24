@@ -117,7 +117,14 @@
               "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919646/pages/text/1/annotation/0",
               "type": "Annotation",
               "motivation": "commenting",
-              "body": [],
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>This is a skeleton of a “quadruped,” or a four-legged animal. But what exactly is it?</p>",
+                  "language": "en",
+                  "format": "text/html"
+                }
+              ],
               "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919646/canvases/1#xywh=0,0,4096,2528"
             }
           ]

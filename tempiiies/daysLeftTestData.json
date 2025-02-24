@@ -1,4 +1,6 @@
 {
+	"pollingProof": "Banshee",
+	"pollingVersion": 100,
 	"daysLeft": [
 			["BL", 18],
 			["EDI", 0],

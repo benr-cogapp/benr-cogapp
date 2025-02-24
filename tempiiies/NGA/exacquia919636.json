@@ -1,0 +1,273 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ngagovlittlebdev.prod.acquia-sites.com/kiosk-story/919636/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "What is the hedgehog’s one great trick?"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "en": [
+          "B-Rubenstein@NGA.GOV"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "en": [
+          "NGA"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "artwork-tombstone"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>Joris Hoefnagel<br><em>Plate 48: Guinea Pig and Hedgehogs with Melon and Cobnuts</em><br>Terra&nbsp;<br>c.1575/1590s</p>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "story-cta"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p class=\"text-node\" data-pm-slice=\"1 1 []\">Explore <em>Guinea Pig and Hedgehogs with Melon and Cobnuts</em></p>"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "<p>In this plate Hoefnagel compares the guinea pig, recently imported into Europe from Peru, and the more familiar hedgehog.</p>"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "<p>Joris Hoefnagel, <em>Plate 48: Guinea Pig and Hedgehogs with Melon and Cobnuts</em>, c. 1575/1590s, watercolor and gold paint on parchment, National Gallery of Art, Washington</p><p>Latin translations and scholarship: Marisa Anne Bass, <em>Insect Artifice: Nature and Art in the Dutch Revolt</em>, Princeton and Oxford: Princeton University Press, 2019.</p><p>Image credit for rolled hedgehog [TBC].</p>"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1",
+      "type": "Canvas",
+      "width": 5588,
+      "height": 4453,
+      "items": [
+        {
+          "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/image/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/annotations/image/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://media.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 5588,
+                "height": 4453,
+                "service": [
+                  {
+                    "id": "https://media.nga.gov/iiif/543e1633-a311-4059-bb7b-216d3e778056",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              },
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>Latin inscriptions appear on many pages in Joris Hoefnagel’s albums, including this one.&nbsp;</p>",
+                  "language": "en",
+                  "format": "text/html"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=0,0,5588,4453"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>These inscriptions are bits of poetry, mottos, or proverbs that impart a moral or lesson.</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "south"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=800,22,3817,726"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>Texts at the top and bottom compare a hedgehog with a fox. The bottom inscription reads “The fox has many tricks, but the hedgehog has one great trick.”&nbsp;</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "north"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=813,3708,3536,726"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>Its trick? Rolling into a ball when it feels threatened.&nbsp;</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "north"
+                },
+                {
+                  "type": "Image",
+                  "id": "/sites/default/files/2025-02/comphedgehog.jpg",
+                  "format": "image/jpeg"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=813,3708,3536,726"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>Its trick? Rolling into a ball when it feels threatened.&nbsp;</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "west"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=3370,2065,1326,859"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>The &nbsp;plaque above the rolled hedgehog reads “No strength is anything but an error.” Hoefnagel suggests that the hedgehog’s seemingly weak defense mechanism should be admired.</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "west"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=3321,849,1209,1146"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>One more inscription is hidden, written in gold below the central hedgehog. It reads: “I wrap myself in virtue.”</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "south"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=1880,1760,1607,955"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>What lesson does the hedgehog offer us?</p>",
+                  "language": "en",
+                  "format": "text/html"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=0,0,5588,4453"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>One scholar proposed that Hoefnagel wants us to applaud the hedgehog’s self-defense tactic—that its “one great trick” can be useful, even virtuous, when faced with aggression.</p>",
+                  "language": "en",
+                  "format": "text/html",
+                  "position-hint": "north"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=1880,1760,2838,1179"
+            },
+            {
+              "id": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/pages/text/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "<p>Do you agree with this? What’s YOUR one great trick?</p>",
+                  "language": "en",
+                  "format": "text/html"
+                }
+              ],
+              "target": "https://ngagovlittlebdev.prod.acquia-sites.com/node/919636/canvases/1#xywh=0,0,5588,4453"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

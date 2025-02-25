@@ -171,7 +171,8 @@
                 },
                 {
                   "type": "Image",
-                  "id": "/sites/default/files/2025-02/comphedgehog.jpg",
+                  "NOT-id": "/sites/default/files/2025-02/comphedgehog.jpg",
+                  "id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/NGA/compHedgehog744.jpg",
                   "format": "image/jpeg"
                 }
               ],
